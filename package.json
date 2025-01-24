@@ -1,0 +1,16 @@
+{
+  "name": "dbsql",
+  "version": "2.0.0",
+  "description": "A simple npm package to connect and query MySQL databases.",
+  "main": "index.js",
+  "bin": {
+    "dbsql": "./bin/dbsql"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "IoLa",
+  "license": "ISC",
+  "dependencies": {}
+}
